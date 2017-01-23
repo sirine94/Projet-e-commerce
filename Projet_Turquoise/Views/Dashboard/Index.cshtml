@@ -1,0 +1,43 @@
+﻿@model Projet_Turquoise.Models.Photo
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout3.cshtml";
+}
+
+
+<h2>UploadFile</h2>
+
+@using (Html.BeginForm("Upload", "Dashboard", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+
+    <div>
+        @Html.TextBox("file", "", new { type = "file" }) <br />
+
+        <input type="submit" value="Upload" />
+
+        @ViewBag.Message
+
+    </div>
+
+
+
+}
+
+
+
+
+@Scripts.Render("~/Scripts/bootstrap.min.js")
+@Scripts.Render("~/Scripts/jquery.min.js")
+@Scripts.Render("~/Scripts/fastclick.js")
+@Scripts.Render("~/Scripts/fastclick.js")
+@Scripts.Render("~/Scripts/nprogress.js")
+@Scripts.Render("~/Scripts/bootstrap-progressbar.min.js")
+@Scripts.Render("~/Scripts/icheck.min.js")
+@Scripts.Render("~/Scripts/daterangepicker.js")
+@Scripts.Render("~/Scripts/moment.js")
+@Scripts.Render("~/Scripts/bootstrap-wysiwyg.min.js")
+@Scripts.Render("~/Scripts/jquery.hotkeys.js")
+@Scripts.Render("~/Scripts/prettify.js")
+@Scripts.Render("~/Scripts/jquery.tagsinput.js")
+@Scripts.Render("~/Scripts/switchery.min.js")
+@Scripts.Render("~/Scripts/custom.min.js")
