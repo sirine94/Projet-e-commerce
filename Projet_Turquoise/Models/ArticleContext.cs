@@ -16,9 +16,10 @@ namespace Projet_Turquoise.Models
         // http://msdn.microsoft.com/en-us/data/jj591621.aspx
     
         public ArticleContext() : base("name=ArticleContext")
-        {
-        }
-
+        { 
+    }
+        
         public System.Data.Entity.DbSet<Projet_Turquoise.Models.Article> Articles { get; set; }
+        public System.Data.Entity.DbSet<Projet_Turquoise.Models.File> Files { get; set; }
     }
 }

@@ -80,3 +80,9 @@ C:\Users\sirine\Documents\Visual Studio 2015\Projects\Projet_Turquoise\Projet_Tu
 C:\Users\sirine\Documents\Visual Studio 2015\Projects\Projet_Turquoise\Projet_Turquoise\obj\Debug\Projet_Turquoise.csprojResolveAssemblyReference.cache
 C:\Users\sirine\Documents\Visual Studio 2015\Projects\Projet_Turquoise\Projet_Turquoise\obj\Debug\Projet_Turquoise.dll
 C:\Users\sirine\Documents\Visual Studio 2015\Projects\Projet_Turquoise\Projet_Turquoise\obj\Debug\Projet_Turquoise.pdb
+C:\Users\sirine\Documents\Visual Studio 2015\Projects\Projet_Turquoise\Projet_Turquoise\obj\Debug\Projet_Turquoise.Migrations.InitialCreate.resources
+C:\Users\sirine\Documents\Visual Studio 2015\Projects\Projet_Turquoise\Projet_Turquoise\obj\Debug\Projet_Turquoise.csproj.GenerateResource.Cache
+C:\Users\sirine\Documents\Visual Studio 2015\Projects\Projet_Turquoise\Projet_Turquoise\obj\Debug\Projet_Turquoise.Migrations.Files.resources
+C:\Users\sirine\Documents\Visual Studio 2015\Projects\Projet_Turquoise\Projet_Turquoise\obj\Debug\Projet_Turquoise.Migrations.Files1.resources
+C:\Users\sirine\Documents\Visual Studio 2015\Projects\Projet_Turquoise\Projet_Turquoise\obj\Debug\Projet_Turquoise.Migrations.Files2.resources
+C:\Users\sirine\Documents\Visual Studio 2015\Projects\Projet_Turquoise\Projet_Turquoise\obj\Debug\Projet_Turquoise.Migrations.Files3.resources

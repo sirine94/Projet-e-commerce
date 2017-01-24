@@ -15,8 +15,8 @@ namespace Projet_Turquoise.Models
      public    double prix { get; set; }
      public    int nombre { get; set; }
      public string couleur { get; set; }
-     
-      
+        public virtual ICollection<File> Files { get; set; }
+
 
 
     }
